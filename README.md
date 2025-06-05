@@ -18,11 +18,15 @@ Elist, an e-commerce company providing popular electronic products to customers 
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/fd88135b-5360-44d9-9404-69b0da331647"> 
 
-### Monthly Trends
-  <img width="800" alt="image" src="https://github.com/user-attachments/assets/eb446364-abbc-4f82-b795-e9a1284918da"> 
-
-### Seasonality
-
+### Monthly Trends & Seasonality
+Sales trends from 2019 to 2022 reveal a clear and consistent seasonal pattern, with notable peaks and dips across specific months:
+- **December is the strongest sales month** across all years, peaking in **Dec 2020 with $1.3M**, driven by year end / holiday seasonality.
+- **March 2020 had the highest MoM growth rate (50%)** indicating early pandemic demand spikes.
+- **Sales growth rates are strongest in November (+21%) and December (+22%)**, reinforcing Q4 as the key revenue period.
+- **October is a recurring soft spot**, showing both the **lowest monthly sales in Oct 2022 ($0.2M)** and the **largest MoM decline in growth (-31%)**.
+- **February also shows consistent underperformance**, with average **MoM sales declines of -23%**, suggesting a post-holiday slump.
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/28c75c61-78ec-47ab-b8ae-870df7d53a29">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/eb446364-abbc-4f82-b795-e9a1284918da"> 
 
 ## Product Trends
 ## Loyalty Program
