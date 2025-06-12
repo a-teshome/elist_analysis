@@ -27,7 +27,7 @@ Sales trends from 2019 to 2022 reveal a clear and consistent seasonal pattern, w
 - **February also shows consistent underperformance**, with average **MoM sales declines of -23%**, suggesting a post-holiday slump.
 
 ## Product Trends
-<img width="900" height = "350" alt="image" src="https://github.com/user-attachments/assets/dbaf1ca6-1632-4a3a-8369-dc062c0eb35d"> 
+<img width="900" height = "350" alt="image" src="https://github.com/user-attachments/assets/b8e4941d-d7ca-47ba-a319-a6d65d3aaf76"> 
 
 ## Loyalty Program
 ## Refund Rates
