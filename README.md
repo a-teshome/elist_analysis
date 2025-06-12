@@ -16,7 +16,7 @@ Elist, an e-commerce company providing popular electronic products to customers 
 - **2021**: Saw declines in sales ($9M) and AOV ($255) though order counts modestly increased by 6%. The year was marked by negative YoY growth rates in sales (-10%) and AOV (-15%).
 - **2022**: Marked by notable YoY downturn, with sales decreasing to $5M, AOV reverting to $230, and order counts dropping significantly (-40%) representing the lowest YoY performance since Elist's inception.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/fd88135b-5360-44d9-9404-69b0da331647"> 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/483bb3e3-44e9-4f08-9b0e-4be9ba7fe41a"> 
 
 ### Monthly Trends & Seasonality
 Sales trends from 2019 to 2022 reveal a clear and consistent seasonal pattern, with notable peaks and dips across specific months:
@@ -29,5 +29,7 @@ Sales trends from 2019 to 2022 reveal a clear and consistent seasonal pattern, w
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/eb446364-abbc-4f82-b795-e9a1284918da"> 
 
 ## Product Trends
+<img width="900" height = "350" alt="image" src="https://github.com/user-attachments/assets/dbaf1ca6-1632-4a3a-8369-dc062c0eb35d"> 
+
 ## Loyalty Program
 ## Refund Rates
