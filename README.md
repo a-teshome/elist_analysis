@@ -27,7 +27,12 @@ Sales trends from 2019 to 2022 reveal a clear and consistent seasonal pattern, w
 - **February also shows consistent underperformance**, with average **MoM sales declines of -23%**, suggesting a post-holiday slump.
 
 ## Product Trends
-<img width="900" height = "350" alt="image" src="https://github.com/user-attachments/assets/b8e4941d-d7ca-47ba-a319-a6d65d3aaf76"> 
+<img width="900" height = "350" alt="image" src="https://github.com/user-attachments/assets/ed7dddb8-c277-4828-aa21-4e56d8887b81"> 
+
+## Global Reach
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/77d8b359-877b-4779-af38-657dac2d60bc"> 
 
 ## Loyalty Program
+Loyalty customers have lower AOVs across all products compared to non-loyalty.
 ## Refund Rates
