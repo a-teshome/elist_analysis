@@ -26,13 +26,16 @@ Sales trends from 2019 to 2022 reveal a clear and consistent seasonal pattern, w
 - **October is a recurring soft spot**, showing both the **lowest monthly sales in Oct 2022 ($0.2M)** and the **largest MoM decline in growth (-31%)**.
 - **February also shows consistent underperformance**, with average **MoM sales declines of -23%**, suggesting a post-holiday slump.
 
-## Product Trends
-<img width="900" height = "350" alt="image" src="https://github.com/user-attachments/assets/ed7dddb8-c277-4828-aa21-4e56d8887b81"> 
-
 ## Global Reach
-
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/77d8b359-877b-4779-af38-657dac2d60bc"> 
 
-## Loyalty Program
+## Product Performance
+<img width="900" height = "350" alt="image" src="https://github.com/user-attachments/assets/ed7dddb8-c277-4828-aa21-4e56d8887b81"> 
+
+## Loyalty Program Evaluation
 Loyalty customers have lower AOVs across all products compared to non-loyalty.
+
 ## Refund Rates
+
+# Recommendations
+
