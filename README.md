@@ -25,8 +25,6 @@ Sales trends from 2019 to 2022 reveal a clear and consistent seasonal pattern, w
 - **Sales growth rates are strongest in November (+21%) and December (+22%)**, reinforcing Q4 as the key revenue period.
 - **October is a recurring soft spot**, showing both the **lowest monthly sales in Oct 2022 ($0.2M)** and the **largest MoM decline in growth (-31%)**.
 - **February also shows consistent underperformance**, with average **MoM sales declines of -23%**, suggesting a post-holiday slump.
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/28c75c61-78ec-47ab-b8ae-870df7d53a29">
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/eb446364-abbc-4f82-b795-e9a1284918da"> 
 
 ## Product Trends
 <img width="900" height = "350" alt="image" src="https://github.com/user-attachments/assets/dbaf1ca6-1632-4a3a-8369-dc062c0eb35d"> 
