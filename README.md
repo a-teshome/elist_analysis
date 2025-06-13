@@ -14,6 +14,7 @@ The revenue trajectory over the examined period was characterized by initial gro
 - **2020** saw substantial growth, reaching record_high annual sales of **$10M**, peak AOV of **$300**, and a notable order count growth (**101% YoY**). Sales and AOV rose sharply (**163% and 31% YoY**, respectively.
 - **2021** experienced contraction, with sales decreasing to **$9M** (**-10% YoY**), and AOV reducing to **$255** (**-15% YoY**), despite a modest order volume increase (**6% YoY**).
 - **2022** was marked by significant downturns, with sales dropping to **$5M**, AOV reverting to **$230**, and order counts falling notably (**-40% YoY**), marking the weakest performance since inception.
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/8fe36e45-94e3-40ff-87fc-74940250fd66">
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/483bb3e3-44e9-4f08-9b0e-4be9ba7fe41a"> 
 
@@ -25,7 +26,7 @@ Seasonal trends from 2019 to 2022 reveal a clear and consistent seasonal pattern
 - **October consistently represent a soft spot**, marked by recurring low sales performance, particularly evident in **OCtober 2022 with the lowest monthly sales ($0.2M)** and the **largest monthly decline (-31% MoM)**.
 - Similarly, **February exhibits persistent underperformance, with average MoM declines of around **-23%**, indicative of a post-holiday sales slump.
 These insights clearly illustrate the necessity for targeted strategic initiatives to bolster weak sales month (November and December),including optimixing inventory management and promotional activities.
-- 
+These insights illustrate a need for targe
 ### Monthly Trends & Seasonality
 Sales trends from 2019 to 2022 reveal a clear and consistent seasonal pattern, with notable peaks and dips across specific months:
 - **December is the strongest sales month** across all years, peaking in **Dec 2020 with $1.3M**, driven by year end / holiday seasonality.
