@@ -18,9 +18,14 @@ The revenue trajectory over the examined period was characterized by initial gro
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/483bb3e3-44e9-4f08-9b0e-4be9ba7fe41a"> 
 
 ## 2. Seasonal Sales Patterns
-An analysis of monthly seasonal sales clearly highlights recurring trends each year:
-- **Febr
-
+Seasonal trends from 2019 to 2022 reveal a clear and consistent seasonal pattern, characterized by notable peaks and dips in specific months:
+- **December consistently emerges as the strongest sales month**, driven by year-end and holiday seasonality. Sales peaked notably in **December 2020 at $1.3M**, highlighting a robust seasonal purchasing surge.
+- Early pandemic conditions significantly influenced **March 2020**, demonstrating the **highest MoM growth rate of 50%**, signaling a rapid shift toward increased e-commerce demand.
+- Overall, growth rates are strongest in Q4, particularly **November** (**+21% MoM**) and **Decemeber** (**+22 MoM**), reinforcing Q4 as a key revenue generating period.
+- **October consistently represent a soft spot**, marked by recurring low sales performance, particularly evident in **OCtober 2022 with the lowest monthly sales ($0.2M)** and the **largest monthly decline (-31% MoM)**.
+- Similarly, **February exhibits persistent underperformance, with average MoM declines of around **-23%**, indicative of a post-holiday sales slump.
+These insights clearly illustrate the necessity for targeted strategic initiatives to bolster weak sales month (November and December),including optimixing inventory management and promotional activities.
+- 
 ### Monthly Trends & Seasonality
 Sales trends from 2019 to 2022 reveal a clear and consistent seasonal pattern, with notable peaks and dips across specific months:
 - **December is the strongest sales month** across all years, peaking in **Dec 2020 with $1.3M**, driven by year end / holiday seasonality.
