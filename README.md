@@ -9,13 +9,17 @@ Between 2019 and 2022, Elist's platform generated approximately **$28M in total 
 
 # Deep-Dive Insights
 ## 1. Overall Sales Trends (2019-2022)
-The revenue trajectory over this period was characterized by initial growth, subsequent plateau, and recent declines:
-- **2019** was the lowest-performing year with sales totaling approximately **$4M**, an AOV of **$230**, and **16,850 orders**.
-- **2020** saw substantial growth, reaching a record **$10M in sales**, peak AOV of **$300**, and a notable **101% YoY increase in order counts**. Sales and AOV increased by **163% and 31%**, respectively.
-- In **2021**, revenue declined to **$9M** (**-10% YoY**), and AOV dropped to **$255** (**-15% YoY**), although order counts modestly increased (**6% YoY**).
-- **2022** faced significant downturns, with revenue reducing to **$5M**, AOV reverting to **$230**, and order counts dropping notably (**-40% YoY**), marking the weakest year since inception.
+The revenue trajectory over the examined period was characterized by initial growth, subsequent plateau, and recent declines:
+- **2019** was the lowest-performing year with sales totaling around **$4M**, an AOV of **$230**, and **16,850 orders**.
+- **2020** saw substantial growth, reaching record_high annual sales of **$10M**, peak AOV of **$300**, and a notable order count growth (**101% YoY**). Sales and AOV rose sharply (**163% and 31% YoY**, respectively.
+- **2021** experienced contraction, with sales decreasing to **$9M** (**-10% YoY**), and AOV reducing to **$255** (**-15% YoY**), despite a modest order volume increase (**6% YoY**).
+- **2022** was marked by significant downturns, with sales dropping to **$5M**, AOV reverting to **$230**, and order counts falling notably (**-40% YoY**), marking the weakest performance since inception.
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/483bb3e3-44e9-4f08-9b0e-4be9ba7fe41a"> 
+
+## 2. Seasonal Sales Patterns
+An analysis of monthly seasonal sales clearly highlights recurring trends each year:
+- **Febr
 
 ### Monthly Trends & Seasonality
 Sales trends from 2019 to 2022 reveal a clear and consistent seasonal pattern, with notable peaks and dips across specific months:
