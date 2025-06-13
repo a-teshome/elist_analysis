@@ -1,7 +1,7 @@
-# elist_analysis
-Sales trends analysis for e-commerce company.
+# Volt Electronics Online Retail Analysis
+An in-depth analysis of sales, customer behavior, and performance metrics for Volt Electronics’ e-commerce platform.
 
-# Background
+## Background
 Elist, an e-commerce company providing popular electronic products to customers worldwide, was founded in 2018 and features renowned brands such as Apple, Samsung, and ThinkPad. In this project, I analyzed Elist’s core datasets to investigate sales trends, monthly and yearly growth rates, average order values, refund rates, and the efficacy of the loyalty program from 2019 to 2022. The goal was to provide insights into Elist’s performance and operational effectiveness across various business areas.
 
 # Overview 
